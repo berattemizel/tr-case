@@ -13,7 +13,7 @@ This project is a comprehensive test automation suite designed to validate vario
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/berattemizel/examples.git
+git clone https://github.com/berattemizel/tr-case.git
 ```
 2. Navigate to the project directory:
 ```bash
